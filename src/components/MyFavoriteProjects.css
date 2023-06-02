@@ -1,0 +1,43 @@
+.Projects {
+    position: absolute;
+    width: 100%;
+    height: 240%;
+    background-color: #f36262;
+    margin: 0 0;
+    top: 240%;
+    left: 0;
+}
+
+.Projects h4 {
+    font-family: sans-serif;
+    color: #000;
+}
+
+.containerProjects {
+    display: flex;
+    flex: row;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-top: 5%;
+    margin-left: 0%;
+    color: #000000;
+}
+
+.containerProjects p {
+    font-family: sans-serif;
+}
+
+.imgProjectRight {
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;
+    justify-content: right;
+}
+
+.imgProjectLeft {
+    width: 200px;
+    height: 200px;
+    margin-right: 200px;
+    justify-content: right;
+}
