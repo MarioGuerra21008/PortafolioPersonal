@@ -1,0 +1,38 @@
+.AboutMe {
+    position: absolute;
+    width: 100%;
+    height: 130%;
+    background-color: #4595db;
+    margin: 0 0;
+    top: 60%;
+    left: 0;
+}
+
+.containerAboutMe {
+    display: flex;
+    flex: row;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-top: 5%;
+    margin-left: 0%;
+    color: #000000;
+}
+
+.containerAboutMe p {
+    font-family: sans-serif;
+}
+
+.imgAboutMeRight {
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;
+    justify-content: right;
+}
+
+.imgAboutMeLeft {
+    width: 200px;
+    height: 200px;
+    margin-right: 200px;
+    justify-content: right;
+}
