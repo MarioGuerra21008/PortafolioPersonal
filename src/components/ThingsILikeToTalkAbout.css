@@ -1,0 +1,21 @@
+.Things {
+    position: absolute;
+    width: 100%;
+    height: 55%;
+    background-color: #c74a4a;
+    margin: 0 0;
+    top: 185%;
+    left: 0;
+}
+
+.ILikeThis {
+    display: flex;
+    align-items: center;
+}
+
+.imgThings {
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    margin-left: 45px;
+}
